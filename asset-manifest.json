@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.619d3a8e.css",
+    "main.js": "/reactwebsite/static/js/main.5a28e10b.js",
+    "static/media/android.jpg": "/reactwebsite/static/media/android.2149ea6126337a53a23d.jpg",
+    "static/media/webd.webp": "/reactwebsite/static/media/webd.15ac51a5d5f857768cc3.webp",
+    "static/media/software.jpg": "/reactwebsite/static/media/software.9bdcaee500121f8b4396.jpg",
+    "static/media/marketing.jpg": "/reactwebsite/static/media/marketing.9c9b7c5d4180c8d971fd.jpg",
+    "static/media/img1.jpg": "/reactwebsite/static/media/img1.886bcf30a1a3a827665a.jpg",
+    "static/media/digital.jpg": "/reactwebsite/static/media/digital.31d01503da3552afc6c3.jpg",
+    "static/media/abbout.jpeg": "/reactwebsite/static/media/abbout.4eb806904d5ef700a3f4.jpeg",
+    "static/media/app.jpg": "/reactwebsite/static/media/app.9ca0a628101207a9be83.jpg",
+    "static/media/img4.webp": "/reactwebsite/static/media/img4.792fb69c221f1105dca9.webp",
+    "index.html": "/reactwebsite/index.html",
+    "main.619d3a8e.css.map": "/reactwebsite/static/css/main.619d3a8e.css.map",
+    "main.5a28e10b.js.map": "/reactwebsite/static/js/main.5a28e10b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619d3a8e.css",
+    "static/js/main.5a28e10b.js"
+  ]
+}
